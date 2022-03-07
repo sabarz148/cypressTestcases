@@ -1,0 +1,14 @@
+{
+  "name": "Using fixtures to represent data",
+  "newemail1":"random+testfree181@gmail.com",
+  "newemail2":"random+testpremium1181@gmail.com",
+  "newemail3":"random+testultimate181@gmail.com",
+  "email": "random+test25@gmail.com",
+  "password": "admin123",
+  
+  "gender": "Female",
+  "dd": "12",
+    "mm": "03",
+    "yy": "1990"
+  
+}

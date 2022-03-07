@@ -1,0 +1,22 @@
+{
+  "defaultCommandTimeout": 8000,
+  "reporter": "mochawesome",
+  
+  "env":{
+    "url":"https://zattoo.com/int",
+    "shop":"https://zattoo.com/start/shop",
+    "signup":"https://zattoo.com/start/signup",
+    "confirm_product":"https://zattoo.com/start/confirm_product",
+    "highlights":"https://zattoo.com/highlights",
+    "payment":"https://zattoo.com/start/payment",
+    "login":"https://zattoo.com/login"
+  },
+  "reporterOptions": {
+    "reportDir": "CYPRESS-E2E-AUTOMATION/reports",
+    "overwrite": false,
+    "html": true,
+    "json": true,
+    "timestamp": "mmddyyyy"
+  }
+    
+  }
