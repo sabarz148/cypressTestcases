@@ -1,4 +1,4 @@
-# zattootest
+# zattootestcases
 **** Zattoo Registration ****
 
 All testcases are in \Cypress\cypress-e2e-automation\cypress\integration\ZattoRegistration Folder
